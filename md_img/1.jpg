@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:2
+#EXTINF:1.500000,
+https://img-blog.netlify.app/md_img/1-000.jpg
+#EXTINF:1.500000,
+https://img-blog.netlify.app/md_img/1-001.jpg
+#EXTINF:0.333333,
+https://img-blog.netlify.app/md_img/1-002.jpg
+#EXT-X-ENDLIST
