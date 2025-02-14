@@ -6,13 +6,13 @@
     "overview": "jellyfin\u7535\u5f71\u5143\u6570\u636e\u63d2\u4ef6",
     "owner": "cxfksword",
     "category": "Metadata",
-    "imageUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/raw/main/doc/logo.png",
+    "imageUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/raw/main/doc/logo.png",
     "versions": [
       {
         "version": "2.1.1.0",
         "changelog": "tmdb\u56fe\u7247\u6539\u4f7f\u7528https\u8bf7\u6c42",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.1.1/metashark_2.1.1.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.1.1/metashark_2.1.1.0.zip",
         "checksum": "9cc02efc9468f66815dae5830dba5ab4",
         "timestamp": "2024-11-10T03:27:04"
       },
@@ -20,7 +20,7 @@
         "version": "2.1.0.0",
         "changelog": "\u652f\u6301\u522e\u524a\u5408\u96c6\uff0c\u5546\u6807\u652f\u6301\u83b7\u53d6\u65e5\u8bed\u7248\u672c",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.1.0/metashark_2.1.0.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.1.0/metashark_2.1.0.0.zip",
         "checksum": "4c5d7a93e15a13dbea37eb8a5b64c0ed",
         "timestamp": "2024-09-04T07:55:38"
       },
@@ -28,7 +28,7 @@
         "version": "2.0.4.0",
         "changelog": "\u652f\u6301\u65b0\u7684\u6f14\u5458\u8bbf\u95ee\u94fe\u63a5",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.4/metashark_2.0.4.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.4/metashark_2.0.4.0.zip",
         "checksum": "aad090cde11063388e86ca2be7ecc878",
         "timestamp": "2024-07-02T08:28:00"
       },
@@ -36,7 +36,7 @@
         "version": "2.0.3.0",
         "changelog": "\u4f18\u5316\u5b63\u6570\u8bc6\u522b\u5904\u7406",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.3/metashark_2.0.3.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.3/metashark_2.0.3.0.zip",
         "checksum": "6695e0a9dcdf90a0c6e7566770205489",
         "timestamp": "2024-06-08T02:38:08"
       },
@@ -44,7 +44,7 @@
         "version": "1.7.16.0",
         "changelog": "\u4f18\u5316\u8bc6\u522b\uff08\u8fd9\u662f10.8.x\u6700\u540e\u4e00\u6b21\u66f4\u65b0\uff09",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.16/metashark_1.7.16.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.16/metashark_1.7.16.0.zip",
         "checksum": "d8e0c03e20b799b7cf306574aa44c2ec",
         "timestamp": "2024-06-08T02:31:31"
       },
@@ -52,7 +52,7 @@
         "version": "2.0.2.0",
         "changelog": "\u4fee\u6b63\u5267\u96c6\u6570\u8bc6\u522b",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.2/metashark_2.0.2.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.2/metashark_2.0.2.0.zip",
         "checksum": "1544315a1969901ba2d891c573ac7b7a",
         "timestamp": "2024-05-25T08:11:49"
       },
@@ -60,7 +60,7 @@
         "version": "1.7.15.0",
         "changelog": "\u4fee\u6b63\u5267\u96c6\u6570\u8bc6\u522b",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.15/metashark_1.7.15.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.15/metashark_1.7.15.0.zip",
         "checksum": "d8f0407bd4cf8ada73173f8321778dd5",
         "timestamp": "2024-05-25T08:05:22"
       },
@@ -68,7 +68,7 @@
         "version": "2.0.1.0",
         "changelog": "\u4fee\u6b63\u6f14\u5458\u4fe1\u606f\u7f3a\u5931",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.1/metashark_2.0.1.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.1/metashark_2.0.1.0.zip",
         "checksum": "d88fc5cca3e003fff411882082fa856e",
         "timestamp": "2024-05-18T08:26:03"
       },
@@ -76,7 +76,7 @@
         "version": "1.7.14.0",
         "changelog": "\u4fee\u6b63\u6f14\u5458\u4fe1\u606f\u7f3a\u5931",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.14/metashark_1.7.14.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.14/metashark_1.7.14.0.zip",
         "checksum": "fc85bd567c204f6aa9cd64055266279d",
         "timestamp": "2024-05-18T08:19:52"
       },
@@ -84,7 +84,7 @@
         "version": "2.0.0.0",
         "changelog": "\u652f\u6301Jellyfin 10.9\n\u652f\u6301\u76f4\u63a5\u5728\u6587\u4ef6\u5939\u540d\u4e2d\u8bbe\u7f6e\u6307\u5b9a\u8c46\u74e3ID",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.0/metashark_2.0.0.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v2.0.0/metashark_2.0.0.0.zip",
         "checksum": "344cd6f0a0c5a7335d61089f487f85eb",
         "timestamp": "2024-05-12T10:53:51"
       },
@@ -92,7 +92,7 @@
         "version": "1.7.13.0",
         "changelog": "\u4f18\u5316 tmdb id \u67e5\u627e",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.13/metashark_1.7.13.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.13/metashark_1.7.13.0.zip",
         "checksum": "7de7b6ee39fb241551b68626b4d693b5",
         "timestamp": "2024-04-13T07:32:23"
       },
@@ -100,7 +100,7 @@
         "version": "1.7.12.0",
         "changelog": "\u4fee\u6b63\u7535\u5f71\u63a8\u8350\u5217\u8868\u53ea\u6709\u4e00\u90e8\u5f71\u7247",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.12/metashark_1.7.12.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.12/metashark_1.7.12.0.zip",
         "checksum": "c0fce92fbbc6f5a96421e7c0cb75b5ad",
         "timestamp": "2024-02-28T03:04:59"
       },
@@ -108,7 +108,7 @@
         "version": "1.7.11.0",
         "changelog": "\u4fee\u6b63\u4e0d\u652f\u6301 SxxEPxx \u683c\u5f0f",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.11/metashark_1.7.11.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.11/metashark_1.7.11.0.zip",
         "checksum": "47db3474ceb12b2bf97574f0d2d4005a",
         "timestamp": "2024-02-23T06:56:06"
       },
@@ -116,7 +116,7 @@
         "version": "1.7.10.0",
         "changelog": "\u4fee\u6b63\u540d\u79f0\u5e26\u6570\u5b57\u65f6\u522e\u524a\u5931\u8d25\u3001\u62c6\u5206\u83b7\u53d6\u5546\u6807\u914d\u7f6e",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.10/metashark_1.7.10.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.10/metashark_1.7.10.0.zip",
         "checksum": "eaf9bb6cfaedee236a869d5b29865a1a",
         "timestamp": "2024-02-07T04:19:51"
       },
@@ -124,7 +124,7 @@
         "version": "1.7.9.0",
         "changelog": "\u6dfb\u52a0\u83b7\u53d6tmdb\u5546\u6807",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.9/metashark_1.7.9.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.9/metashark_1.7.9.0.zip",
         "checksum": "03c3246ed32791c4ef3c96491a36b195",
         "timestamp": "2024-02-03T06:06:17"
       },
@@ -132,7 +132,7 @@
         "version": "1.7.8.0",
         "changelog": "\u4f18\u5316\u65e5\u5fd7\u8f93\u51fa\uff0c\u5267\u96c6\u652f\u6301EP\u524d\u7f00\u547d\u540d",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.8/metashark_1.7.8.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.8/metashark_1.7.8.0.zip",
         "checksum": "a7982662696b1ddd46480a6507a1a9ba",
         "timestamp": "2024-01-06T02:20:02"
       },
@@ -140,7 +140,7 @@
         "version": "1.7.7.0",
         "changelog": "\u589e\u52a0\u83b7\u53d6\u6d77\u62a5\u5927\u56fe\u914d\u7f6e\n\u4f18\u5316\u56fe\u7247\u5904\u7406",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.7/metashark_1.7.7.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.7/metashark_1.7.7.0.zip",
         "checksum": "b0b8b8f715f54b05b20c8288ec33ac68",
         "timestamp": "2023-12-30T07:19:48"
       },
@@ -148,7 +148,7 @@
         "version": "1.7.6.0",
         "changelog": "\u6539\u56de\u4f7f\u7528\u65e7\u56fd\u5185\u52a0\u901f\u57df",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://gh-proxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.6/metashark_1.7.6.0.zip",
+        "sourceUrl": "https://gh-proxy.com/github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.6/metashark_1.7.6.0.zip",
         "checksum": "59a0eceae6022cb032667fc9ca013804",
         "timestamp": "2023-12-16T07:22:10"
       }
